@@ -1,0 +1,16 @@
+.navbar{
+    background-color: deepskyblue;
+}
+.inicio{
+    background-image: url("../image/background3.jpg");
+
+    
+}
+#conteudoInicio{
+    padding-top: 150px;
+    padding-bottom: 200px;
+}
+.conteudo{
+    height: 100%;
+    padding-top: 40px;
+}
